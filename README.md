@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Jaysawal</h1>
-<h3 align="center">I am A Full Stack Developer</h3>
+<h3 align="center">I am Computer Science and Engineering Student at SJB Institute of Technology , Bangalore. I am fascinated about programming and exploring new CS fields. I enjoy solving problems with use of programming. I am always energetic and eager to learn new skills. I have good leadership skills as well as I can work as a team member. I am currently looking for internship and job opportunities that matches my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuljaysawal&label=Profile%20views&color=0e75b6&style=flat" alt="rahuljaysawal" /> </p>
 <!-- 
