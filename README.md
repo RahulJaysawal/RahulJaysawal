@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **DSA,DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [projectlink.xyz](projectlink.xyz)
+- 👨‍💻 All of my projects are available at [rahuljaysawal.online](rahuljaysawal.online)
 
 - 📫 How to reach me **rahuljaysawal04@gmail.com**
 
-- 📄 Know about my experiences [resulelink.xyz](resulelink.xyz)
+- 📄 Know about my experiences [rahuljaysawal.online](rahuljaysawal.online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
