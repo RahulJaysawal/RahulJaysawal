@@ -8,7 +8,7 @@
      <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
   </a> -->
   <h3>Hi, I'm Rahul Jaysawal</h3>
-  <p>I am Full Stack Web and DevOps Developer.
+  <p>I am Full Stack and DevOps Developer.
 <!--     <a href="https://www.youtube.com/user/GeekyShow1">
         <img align="center" src="https://img.shields.io/badge/GeekyShows Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/GeekyShow1" />
     </a> having 400k+ Subscribers. -->
@@ -90,7 +90,7 @@
 <h2><i>My GitHub Stats</i></h2>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulJaysawal&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="geekyshow1" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyshow1&layout=compact&border_radius=0&theme=dark" alt="geekyshow1" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulJaysawal&layout=compact&border_radius=0&theme=dark" alt="geekyshow1" height="139" />
 </p>
 
 <!----------------------------------- Profile View Section ------------------------------------>
