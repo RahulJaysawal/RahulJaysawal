@@ -59,7 +59,7 @@
 <p>
     <img src="https://img.shields.io/badge/CI/CD-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
     <img src="https://img.shields.io/badge/Docker-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/Kubernetes-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+    <img src="https://img.shields.io/badge/Jenkins-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
     <img src="https://img.shields.io/badge/Linux-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
 
 </p>
