@@ -8,7 +8,7 @@
      <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
   </a> -->
   <h3>Hi, I'm Rahul Jaysawal</h3>
-  <p>I am Full Stack and DevOps Developer.
+  <p>I am passionate about exploring different technologies and gaining knowledge in various fields. I am motivated to learn and grow my skills to become a proficient professional in the IT industry. I am open to new challenges and eager to expand my experience in DevOps, Cloud, Cyber Security, and related technologies.
 <!--     <a href="https://www.youtube.com/user/GeekyShow1">
         <img align="center" src="https://img.shields.io/badge/GeekyShows Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/GeekyShow1" />
     </a> having 400k+ Subscribers. -->
